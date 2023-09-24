@@ -1,6 +1,6 @@
 # Login Page
 
-### This project is a simple HTML and CSS login page template designed to provide an attractive and user-friendly interface for user authentication. It includes minimal JavaScript for user interaction and validation. The project is hosted on GitHub to showcase the code and design.
+This project is a simple HTML and CSS login page template designed to provide an attractive and user-friendly interface for user authentication. It includes minimal JavaScript for user interaction and validation. The project is hosted on GitHub to showcase the code and design.
 
 ## Features
 
