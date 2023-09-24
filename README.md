@@ -14,4 +14,8 @@ This project is a simple HTML and CSS login page template designed to provide an
  CSS: Cascading Style Sheets (CSS) are used for styling and layout to create an attractive and responsive design.
  JavaScript: A minimal amount of JavaScript is utilized for user input validation.
 
+![Screenshot (1098)](https://github.com/RashidHasan/Login-Page/assets/136935583/9907c5b6-53a3-4f88-973d-c55fc0e036b5)
+
+![Screenshot (1100)](https://github.com/RashidHasan/Login-Page/assets/136935583/9fdc645c-da53-4d6c-a90f-e29f924545fc)
+
 ## https://rashidhasan.github.io/Login-Page/
